@@ -31,16 +31,6 @@ public class WebController {
 	CustomerRepository repository;
 */	
 
-/*	@RequestMapping("/save")
-	public String process(){
-		repository.save(new Customer("Jack", "Smith"));
-		repository.save(new Customer("Adam", "Johnson"));
-		repository.save(new Customer("Kim", "Smith"));
-		repository.save(new Customer("David", "Williams"));
-		repository.save(new Customer("Peter", "Davis"));
-		return "Done";
-	}
-*/
 
 
 /*	@RequestMapping("/save_goods")
